@@ -19,3 +19,18 @@
 - 타입스크립트 문법에 대한 이해
 - 타입스크립트 프로젝트 만들어보기
 - 타입스크립트가 자바스크립트처럼 편한 언어가 되게 만들기
+
+<br>
+
+## type-challenges 풀이
+
+<br>
+
+[Type<Challenge[]>](https://github.com/type-challenges/type-challenges) 풀기
+
+<br>
+
+| No. | 난이도                                                            | 문제                                                                                                                      | 풀이                                                                 | 키워드 |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ |
+| 1.  | <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> | [Hello World](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.ko.md) | [Hello World 풀이](./type-challenges/warm-up/13.%20Hello%20World.md) |        |
+| 2.  | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [Pick](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md)                  | [Pick 풀이](./type-challenges/easy/4.%20Pick.md)                     | Pick   |
