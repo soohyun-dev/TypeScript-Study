@@ -30,7 +30,8 @@
 
 <br>
 
-| No. | 난이도                                                            | 문제                                                                                                                          | 풀이                                                                 | 키워드 |
-| --- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ |
-| 1.  | <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> | [13. Hello World](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.ko.md) | [Hello World 풀이](./type-challenges/warm-up/13.%20Hello%20World.md) |        |
-| 2.  | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [4. Pick](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md)                   | [Pick 풀이](./type-challenges/easy/4.%20Pick.md)                     | Pick   |
+| No. | 난이도                                                            | 문제                                                                                                                          | 풀이                                                                 | 키워드   |
+| --- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------- |
+| 1.  | <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/> | [13. Hello World](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.ko.md) | [Hello World 풀이](./type-challenges/warm-up/13.%20Hello%20World.md) |          |
+| 2.  | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [4. Pick](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md)                   | [Pick 풀이](./type-challenges/easy/4.%20Pick.md)                     | Pick     |
+| 3.  | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [7. Readonly](https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.md)           | [Readonly 풀이](./type-challenges/easy/4.%20Pick.md)                 | readonly |
